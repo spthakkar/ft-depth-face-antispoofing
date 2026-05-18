@@ -17,7 +17,7 @@ This repository contains the official implementation for:
 > Edge-Oriented Face Anti-Spoofing Systems"**
 > Shital Thakkar, Vinay Thumar
 > *Under review at The Visual Computer, Springer Nature*
-> DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.20271183)
+> DOI: [10.5281/zenodo.zenodo.20271183](https://doi.org/10.5281/zenodo.20271183)
 
 If you use this code in your research, please cite
 this manuscript. BibTeX entry is provided below.
